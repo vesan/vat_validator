@@ -1,5 +1,5 @@
 require 'active_model'
-require 'vies_checker'
+# require 'vies_checker'
 
 module VatValidator
   
